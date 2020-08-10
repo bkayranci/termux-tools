@@ -50,7 +50,7 @@ Türkalp Burak Kayrancıoğlu – [@bkayranci](https://twitter.com/bkayranci) �
 
 Distributed under the GNU GPLv3 license. See [``LICENSE``](./LICENSE) for more information.
 
-[https://github.com/bkayranci/termux-tools](https://github.com/termux-tools)
+[https://github.com/bkayranci/termux-tools](https://github.com/bkayranci/termux-tools)
 
 
 ## Contributing
