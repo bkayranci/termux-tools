@@ -13,6 +13,7 @@ fi
 
 if ! command -v ffmpeg &> /dev/null
 then
+  apt update
   apt install -y ffmpeg
 fi
 
